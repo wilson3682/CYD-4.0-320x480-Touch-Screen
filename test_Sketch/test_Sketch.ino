@@ -21,7 +21,7 @@
 // =========================================================================
 
 #include <SPI.h>
-#include <TFT_eSPI.h> // We only need this one library!
+#include <TFT_eSPI.h> // We only need this one library! https://github.com/Bodmer/TFT_eSPI
 
 // Create an instance of the TFT_eSPI class
 TFT_eSPI tft = TFT_eSPI();
@@ -121,3 +121,4 @@ void loop() {
     delay(100);
   }
 }
+
