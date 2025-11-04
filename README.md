@@ -6,6 +6,7 @@ Files for testing CYD 4.0'' 320x480 TFT ESP32-32E ESP32 Display with ST7796S Dri
 ###
 ### Important Information Links: 
 - Board Manufacturer: https://hosyond.com/
+- https://www.lcdwiki.com/4.0inch_ESP32-32E_Display#Package_Library
 - https://www.youtube.com/watch?v=agfuTNZGGl4&t=11s
 - https://resinchemtech.blogspot.com/2025/08/cyd.html
 #
