@@ -15,3 +15,7 @@ Files for testing CYD 4.0'' 320x480 TFT ESP32-32E ESP32 Display with ST7796S Dri
 - Rename the User_Setup.h on the TFT_eSPI Arduino libraries folder to something like User_Setup.h_Original
 - Copy the modified User_Setup.h
 - Run the sample sketch using Arduino IDE.
+#
+## Picture sample
+#### ![WebPage](/test_sample.jpg)
+- https://github.com/wilson3682/CYD-4.0-320x480-Touch-Screen/blob/main/test_sample.jpg
