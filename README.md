@@ -12,9 +12,10 @@ Files for testing CYD 4.0'' 320x480 TFT ESP32-32E ESP32 Display with ST7796S Dri
 - https://github.com/Bodmer/TFT_eSPI
 #
 # How to use:
-- Rename the User_Setup.h on the TFT_eSPI Arduino libraries folder to something like User_Setup.h_Original
-- Copy the modified User_Setup.h
-- Run the sample sketch using Arduino IDE.
+- Rename the User_Setup.h on Documents/Arduino/libraries/TFT_eSPI library folder to something like User_Setup.h_Original.
+- Then copy the modified User_Setup.h to the same TFT_eSPI folder.
+- Run the sample sketch using Arduino IDE 1.8.19
+- Esp32 dev version 3.3.2
 #
 ## Picture sample
 #### ![WebPage](/test_sample.jpg)
