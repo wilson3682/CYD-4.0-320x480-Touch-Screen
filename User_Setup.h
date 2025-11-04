@@ -30,6 +30,9 @@
 #define TFT_DC    2  // Data Command control pin
 #define TFT_RST  -1  // Set to -1 if RESET connected to ESP32 RST
 #define TOUCH_CS 33  // Chip select pin (T_CS) of touch screen
+
+// This data is usually found by running a calibration sketch once.
+// To get the calibration data run the tft generic Touch_calibrate example sketch and open the serial monitor
 #define TOUCH_CALIBRATION { 252, 3676, 180, 3648, 7 } // <-- EXAMPLE! USE YOURS!
 //uint16_t calData[5] = { 252, 3676, 180, 3648, 7 };
 
@@ -53,4 +56,5 @@
 
 #define SPI_FREQUENCY  27000000
 #define SPI_READ_FREQUENCY  20000000
+
 #define SPI_TOUCH_FREQUENCY  2500000
